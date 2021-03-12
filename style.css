@@ -1,0 +1,14 @@
+
+        h1{color:cyan}
+        *{border: solid}
+        .header{
+            background-color: orangered;
+            display: flex;
+            justify-content: space-between;
+        }
+        .game{
+            display: flex;
+            justify-content: space-between;
+        }
+
+ 
